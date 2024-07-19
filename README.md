@@ -63,7 +63,8 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
  ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Tsukimono13&theme=dark&background=4F378B)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tsukimono13&theme=ocean-gradient&hide_border=true)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tsukimono13&layout=compact&theme=catppuccin_latte)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
