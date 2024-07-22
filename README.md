@@ -34,7 +34,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :zap: In my free time, I solve problems on Codewars and read tech articles and books.
 
-- :open_file_folder: Check my portfolio [![Static Badge](https://img.shields.io/badge/Portfolio-red?style=flat)](https://tsukimono13.github.io/Portfolio/)
+- :open_file_folder: Check my [![Static Badge](https://img.shields.io/badge/Portfolio-red?style=flat)](https://tsukimono13.github.io/Portfolio/)
 
 - :incoming_envelope: How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=flat&logo=Telegram)](https://t.me/Tsukimono13)
  ---
