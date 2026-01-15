@@ -60,11 +60,6 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="40" height="40"/>
 </div>
 
- ---
-
-### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com?user=Tsukimono13&theme=ocean-gradient&hide_border=true)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tsukimono13&layout=compact&theme=catppuccin_latte)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
